@@ -1,7 +1,7 @@
 import requests
 
 API_URL = "http://18.222.173.233:3000//api/project.all"
-api_key = "oCLVhSHIVCORjQcyNvaSYgqPrGkKgLhRhzpKrUFvFIJEKwRLpTWJcUCrzkubricXY"
+api_key = "jdUVIMoPDiHHpSuAZVdStgcStxhDJPtIVBlqzRRuOrXvbNdgmwfZSrDdIFmpYWNh"
 app_name = "job-portal-backend-gawa1n"
 
 def get_application_id():
